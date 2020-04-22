@@ -1,0 +1,23 @@
+# Contribution Guide
+
+本リポジトリへのコントリビュート方法について記載しています。
+
+## Issues
+
+リポジトリの品質向上にご協力頂きありがとうございます。
+
+Issueの作成を簡単にするテンプレートを用意しているので活用してください。
+
+## Pull Requests
+
+Pull Requestの作成ありがとうございます。
+提出したPull Request（PR）には次のルールが適用されます。
+
+- PRの内容には本リポジトリの[LICENSE](./LICENSE)が適用されます
+- PRは`rt-net`のメンバーにレビューされます
+- リポジトリにテストが設定されている場合はできるだけテストを通してください
+  - テストの間違いがある場合はその旨をPRに記載してください
+- PRのコミットは`squash`されます
+  - [プルリクエストのコミットのsquashとマージ | GitHubヘルプ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#squash-and-merge-your-pull-request-commits)
+- PRはできるだけ変更点を少なくしてください
+  - `squash`しても履歴を辿りやすくなります
