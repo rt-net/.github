@@ -2,7 +2,7 @@
 name: 不具合報告
 about: 不具合に関するお問い合わせはこちら
 title: ''
-labels: bug
+labels: 'Type: Bug'
 assignees: ''
 
 ---
