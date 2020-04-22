@@ -12,7 +12,7 @@ assignees: ''
 
 # Environments
 - OS: <!-- e.g.: Ubuntu 18.04, Windows 10 -->
-- Software Version: <!-- e.g. latest of master branch, commit: abcd123 -->
+- Software Version: <!-- e.g. latest of master branch (date: yyyy/mm/dd), commit: abcd123 -->
 
 # To Reproduce
 <!-- Steps to reproduce the behavior -->
