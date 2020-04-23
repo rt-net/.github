@@ -18,7 +18,7 @@ Pull Requestの作成ありがとうございます。
     - すべてのPRがマージされるわけではなく、希望に添えない場合もありますのでご容赦ください
 - リポジトリにテストが設定されている場合はできるだけテストを通してください
   - 何かしらの理由（テストに間違いがある場合など）でテストを通さずPRを出す場合はその旨をPRに記載してください
-- PRのコミットは`squash`されます
+- マージする際にはPR内の全コミットが1つのコミットに`squash`されます
   - [プルリクエストのコミットのsquashとマージ | GitHubヘルプ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#squash-and-merge-your-pull-request-commits)
 - PRはできるだけ変更点を少なくしてください
   - `squash`しても履歴を辿りやすくなります
