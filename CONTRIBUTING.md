@@ -17,7 +17,7 @@ Pull Requestの作成ありがとうございます。
 - PRは`rt-net`のメンバーにレビューを経てからマージされます
     - すべてのPRがマージされるわけではなく、希望に添えない場合もありますのでご容赦ください
 - リポジトリにテストが設定されている場合はできるだけテストを通してください
-  - テストの間違いがある場合はその旨をPRに記載してください
+  - 何かしらの理由（テストに間違いがある場合など）でテストを通さずPRを出す場合はその旨をPRに記載してください
 - PRのコミットは`squash`されます
   - [プルリクエストのコミットのsquashとマージ | GitHubヘルプ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#squash-and-merge-your-pull-request-commits)
 - PRはできるだけ変更点を少なくしてください
