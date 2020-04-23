@@ -20,5 +20,7 @@ Pull Requestの作成ありがとうございます。
   - 何かしらの理由（テストに間違いがある場合など）でテストを通さずPRを出す場合はその旨をPRに記載してください
 - マージする際にはPR内の全コミットが1つのコミットに`squash`されます
   - [プルリクエストのコミットのsquashとマージ | GitHubヘルプ](https://help.github.com/ja/github/collaborating-with-issues-and-pull-requests/about-pull-request-merges#squash-and-merge-your-pull-request-commits)
-- PRはできるだけ変更点を少なくしてください
-  - `squash`しても履歴を辿りやすくなります
+- 1つのPRでリクエストする変更はできるだけシンプルにしてください
+  - 異なる内容の変更を含む場合はPRを分割してください
+      - 例えば、複数の機能追加したり、機能追加とリファクタリングを同時にする場合はそれぞれ別々のPRとしてください
+  - squashマージしても履歴を辿りやすくするためです
