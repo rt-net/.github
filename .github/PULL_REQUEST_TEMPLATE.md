@@ -3,7 +3,7 @@
 # Checklists
 <!-- PR作成時にチェックボックスにチェックを入れてください -->
 
-- [ ] <!-- コントリビューティングガイドラインを読みました--> I have read the [CONTRIBUTING](../CONTRIBUTING.md) document.
+- [ ] <!-- コントリビューティングガイドラインを読みました--> I have read the CONTRIBUTING document.
 - [ ] <!-- 同じ変更を要求するオープンなPRが無いことを確認しました --> I have checked to ensure there aren't other open [Pull Requests](../pulls) for the same change.
 
 # What does this implement/fix? Explain your changes.
