@@ -1,12 +1,7 @@
 <!-- プルリクエストのタイトルと以下の記述項目は、日本語で書いても良いです -->
 
-# Checklists
-<!-- PR作成時にチェックボックスにチェックを入れてください -->
-
-- [ ] <!-- コントリビューティングガイドラインを読みました--> I have read the CONTRIBUTING guidelines.
-- [ ] <!-- 同じ変更を要求するオープンなPRが無いことを確認しました --> I have checked to ensure there aren't other open [Pull Requests](../pulls) for the same change.
-
-# What does this implement/fix? Explain your changes.
+# What does this implement/fix?
+<!-- Explain your changes here. -->
 <!-- このPRはどんな機能改善/修正ですか？ -->
 
 
@@ -20,3 +15,10 @@
 
 # Any other comments?
 <!-- その他コメントはありますか？ -->
+
+
+# Checklists
+<!-- PR作成時にチェックボックスにチェックを入れてください -->
+
+- [ ] <!-- コントリビューティングガイドラインを読みました--> I have read the CONTRIBUTING guidelines.
+- [ ] <!-- 同じ変更を要求するオープンなPRが無いことを確認しました --> I have checked to ensure there aren't other open [Pull Requests](../pulls) for the same change.
