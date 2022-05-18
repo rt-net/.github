@@ -21,4 +21,6 @@
 <!-- PR作成時にチェックボックスにチェックを入れてください -->
 
 - [ ] <!-- コントリビューティングガイドラインを読みました--> I have read the CONTRIBUTING guidelines.
+    <!-- リポジトリのガイドラインがない場合は、rt-net organaizationのガイドラインが適用されます -->
+    - If there is no guideline in this repository, [rt-net organization's guideline](https://github.com/rt-net/.github/blob/master/CONTRIBUTING.md) applies.
 - [ ] <!-- 同じ変更を要求するオープンなPRが無いことを確認しました --> I have checked to ensure there aren't other open [Pull Requests](../pulls) for the same change.
