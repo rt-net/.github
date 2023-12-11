@@ -18,7 +18,7 @@ The following rules apply to your Pull Request (PR)
 - PRs are reviewed by `rt-net` members before being merged
   - Not all PRs will be merged and the review process may take some time.
 - For requests to repositories where CI and tests are set up, please try to pass the tests as much as possible.
-  - If you submit a PR without testing for some reason (e.g., if there is a mistake in the testing), please indicate this in the PR.
+  - If you submit a PR without testing for a specific reason (e.g., if there is a mistake in the testing), please describe it in the PR.
 - When merging, all commits in the PR will be `squashed` into one commit.
 - Keep changes requested in a single PR as simple as possible
 - To make it easier to trace back the history after a squash merge, please split a PR if it contains changes with different content.
