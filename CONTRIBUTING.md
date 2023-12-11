@@ -1,4 +1,4 @@
-# Contribution Guide
+# Contribution Guide (EN)
 
 This guide describes how to contribute to the [rt-net](https://github.com/rt-net) organization repository.
 
