@@ -26,7 +26,7 @@ The following rules apply to your Pull Request (PR)
 
 ---
 
-# Contribution Guide
+# Contribution Guide (JA)
 
 [rt-net](https://github.com/rt-net) organizationリポジトリへのコントリビュート方法について記載しています。
 
