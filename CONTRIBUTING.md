@@ -17,7 +17,7 @@ The following rules apply to your Pull Request (PR)
 - The content of the PR is subject to the license of each repository (as described in the `LICENSE` or `README.md`).
 - PRs are reviewed by `rt-net` members before being merged
   - Not all PRs will be merged and the review process may take some time.
-- If you have a test set up in the repository, please test it as much as possible.
+- For requests to repositories where CI and tests are set up, please try to pass the tests as much as possible.
   - If you submit a PR without testing for some reason (e.g., if there is a mistake in the testing), please indicate this in the PR.
 - When merging, all commits in the PR will be `squashed` into one commit.
 - Keep changes requested in a single PR as simple as possible
