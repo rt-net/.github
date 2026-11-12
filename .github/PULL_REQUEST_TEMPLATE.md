@@ -7,7 +7,7 @@
 
 # Does this close any currently open issues?
 <!-- このPRはオープンになっているissueをクローズしますか？ -->
-
+<!-- "Closes #123" のように記載すると対応するissueを自動でクローズします -->
 
 # How has this been tested?
 <!-- このPRはどのようにテストしましたか？ -->
